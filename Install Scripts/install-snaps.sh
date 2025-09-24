@@ -18,6 +18,9 @@ sudo apt install -y blender
 sudo apt install -y preload    # Fast Lauch using RAM preload
 sudo apt install -y timeshift  # Backups
 sudo apt install -y bleachbit  # Memory Limpeza
+
+# Video-like
+sudo apt install -y ffmpeg
 sudo apt install -y obs-studio
 
 # GNOME
@@ -33,7 +36,9 @@ sudo apt install -y build-essential # GCC,G++,Make
 
 # Instalar snapd
 sudo apt install -y snapd      # Necessário
+sudo snap install discord
 sudo snap install tex-match
+
 
 # FINAL
 sudo apt update
