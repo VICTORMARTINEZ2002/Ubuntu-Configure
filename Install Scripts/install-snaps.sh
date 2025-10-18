@@ -23,6 +23,9 @@ sudo apt install -y bleachbit  # Memory Limpeza
 sudo apt install -y ffmpeg
 sudo apt install -y obs-studio
 
+# Nvidia Visualizer
+sudo apt install -y nvtop
+
 # GNOME
 sudo apt install -y gnome-boxes  # Virtualização
 sudo apt install -y gnome-tweaks # Configuraçõe
