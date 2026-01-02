@@ -41,6 +41,7 @@ sudo apt install -y build-essential # GCC,G++,Make
 sudo apt install -y snapd      # Necessário
 sudo snap install discord
 sudo snap install tex-match
+sudo snap install dbeaver-ce --classic   # DBeaver Community Edition
 
 
 # FINAL
